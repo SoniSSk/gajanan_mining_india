@@ -44,7 +44,7 @@
 .get_in_touch {
     font-size: 22px;
     font-weight: 700;
-    color: #345E40;
+    color: #75397c;
     line-height: 1.5;
     font-family: Inter;
 }
@@ -87,7 +87,7 @@
 }
 
 .input_feild {
-    border: 1px solid #345E40;
+    border: 1px solid #75397c;
     width: 200px;
     padding: 10px;
 }
@@ -95,13 +95,13 @@
 
 
 .input_feild_two {
-    border: 1px solid #345E40;
+    border: 1px solid #75397c;
     width: 342px;
     padding: 60px;
 }
 
 .button_style {
-    background-color: #345E40;
+    background-color: #75397c;
     color: white;
     padding: 10px 20px;
     border-radius: 5px;
@@ -117,7 +117,7 @@
 }
 
 .jj {
-    background-image: url(../../assets/images/asdfghj.jpeg);
+    background-image: url(../../assets/images/asdfghj.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;

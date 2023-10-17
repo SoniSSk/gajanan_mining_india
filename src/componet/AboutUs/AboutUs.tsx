@@ -7,23 +7,23 @@ const AboutUs = () => {
     const abloutUs = [
         {
             heading: "Company Overview",
-            content: 'At GOMTI INFRA & MINING PRIVATE LIMITED, we are dedicated to the responsible exploration and extraction of the Earths valuable resources. With a legacy dating back decades, our company has been a stalwart in the mining industry, contributing to global development while prioritizing sustainability and environmental stewardship.'
+            content: 'Gajanan Mining India Private Limited is wholeheartedly devoted to the responsible exploration and extraction of Earth invaluable resources.With a legacy extending over several decades, our company stands as a steadfast presence in the mining industry.Our unwavering commitment contributes significantly to global development while placing sustainability and environmental stewardship as paramount priorities in all our operations and endeavors.We continue to uphold this legacy while responsibly meeting the worlds resource demands.'
         },
         {
             heading: "Our Mission",
-            content: "Our mission is to be a leader in the mining industry, known for our commitment to safety, environmental responsibility, and the well-being of the communities where we operate. We strive to deliver the highest quality minerals and metals to meet the world's growing demands."
+            content: "Our mission is to lead the mining industry, recognized for our unwavering commitment to safety, environmental responsibility, and community well-being in the areas we serve. We tirelessly endeavor to provide the world with the highest quality minerals and metals to address its ever-increasing demands. We aim to set a benchmark as industry leaders, championing safety, sustainability, and the welfare of the communities where our operations make a difference."
         },
         {
             heading: "Our Commitment to Sustainability",
-            content: "Environmental responsibility is at the core of our operations. We employ state-of-the-art technologies and practices to minimize our ecological footprint. From reclamation efforts to water and energy conservation, we are dedicated to leaving a positive impact on the environment."
+            content: "Environmental responsibility is the cornerstone of our operations. We utilize cutting-edge technologies and best practices to reduce our ecological footprint. Our commitment extends to reclamation initiatives, water and energy conservation, and various sustainability efforts. We are dedicated to ensuring that our activities result in a positive impact on the environment, leaving it in a better state for future generations."
         },
         {
             heading: "Our Commitment to Safety",
-            content: "The safety of our employees and partners is non-negotiable. We maintain the highest safety standards and continuously invest in training and resources to ensure that everyone who works with us returns home safely."
+            content: "Safety is our top priority, and it's non-negotiable. We uphold the most stringent safety standards, and we consistently invest in training and resources to guarantee that everyone involved with us can confidently return home without harm. Our unwavering commitment to safety extends to our employees, partners, and anyone associated with our operations. We consider their well-being paramount, fostering a culture where safety is ingrained in every aspect of our work."
         },
         {
             heading: "Our Community Engagement",
-            content: "We believe in being good neighbors. We work closely with local communities to create shared value. Through job opportunities, education, and community projects, we aim to be a catalyst for progress and development in the areas we operate."
+            content: "We prioritize community engagement and endeavor to be responsible neighbors. We forge strong partnerships with local communities to foster shared value. By offering employment opportunities, supporting educational initiatives, and participating in community projects, we strive to act as a catalyst for progress and development in the regions where we operate. Our commitment to creating a positive impact extends beyond our core operations, contributing to the betterment of the communities we are privileged to work alongside."
         },
         {
             heading: 'Innovation and Technology',
@@ -31,11 +31,11 @@ const AboutUs = () => {
         },
         {
             heading: 'Quality Assurance',
-            content: 'Delivering top-tier products is our promise. We have rigorous quality control processes in place to ensure that the minerals and metals we extract meet the highest industry standards.'
+            content: 'We stand by our commitment to provide superior products. Our stringent quality control procedures guarantee that the minerals and metals we extract consistently meet the industry highest standards.We take pride in our unwavering dedication to delivering top- tier materials to meet the demands of our clients and partners.Our quality assurance measures are an integral part of our operations, reflecting our commitment to excellence and reliability in every product we offer.'
         },
         {
             heading: 'A Bright Future',
-            content: 'The mining industry is constantly evolving, and so are we. We are committed to adapting to new challenges and opportunities, while adhering to the principles that have made us a respected name in the mining sector.'
+            content: 'The mining industry undergoes continual transformation, and we evolve with it. Our dedication lies in adapting to fresh challenges and opportunities, all while adhering to the core principles that have earned us respect and recognition in the mining sector. As we progress, we remain steadfast in our commitment to sustainability, safety, environmental stewardship, and community well-being, ensuring that our legacy of responsible mining endures amid an ever-changing industry landscape.'
         }
     ]
     return (

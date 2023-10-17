@@ -21,16 +21,10 @@ const CSRActivity = () => {
                         gap: "150px"
                     }}>
                         <div style={{ width: '50%', textAlign: 'justify', padding: "50px 0px" }}>
-                            Environment
-                            We at Gajanan Mining India Private Limited, we take minimum disturbance to environment as a key responsibility. To ensure this happen we bring into force serval environments activities into our Job schedules.
-
-                            Efficient energy usage, Waste management, and reduction of green house gases in our working process are some in the things that we consider in making our policies.
-
-                            Abiding to the rules and regulations of respective countries where we work and the global environment rules. A constant review of these guidelines is habit that we inculcated in our organisational process that helps in a sustainable performance in the industry
-                        </div>
+                            At Gajanan Mining India Private Limited, we consider environmental preservation a paramount responsibility. To minimize our environmental impact, we integrate various environmentally conscious activities into our operational schedules. Efficient energy consumption, meticulous waste management, and the reduction of greenhouse gas emissions are pivotal aspects of our policies. We rigorously adhere to the regulations of the countries in which we operate and the global environmental standards. Regularly reviewing these guidelines is ingrained in our organizational culture, ensuring sustainable performance in the industry. Our unwavering commitment to environmental stewardship reflects our dedication to a balanced and responsible approach, where harmony with the environment is a core tenet of our operations.  </div>
 
                         <div>
-                            <img src={enviornment} alt="ss" width={400} height={300} style={{ borderRadius: "10px" }} />
+                            <img src={enviornment} alt="ss" width={400} height={350} style={{ borderRadius: "10px" }} />
                         </div>
                     </div>
                 </div >

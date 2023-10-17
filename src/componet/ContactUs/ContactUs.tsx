@@ -14,7 +14,6 @@ const ContactUs = () => {
                         Contact Us
                     </div>
                     <div className={styles.conatainer}>
-                        {/* Gomti Infra Mining Private Limited, we are dedicated to the responsible exploration and extraction of the Earth's valuable resources. With a legacy dating back decades, our company has been a stalwart in the mining industry, contributing to global development while prioritizing sustainability and environmental stewardship. */}
                         <div
 
                             className={
@@ -25,17 +24,17 @@ const ContactUs = () => {
                         </div>
 
                         <div>
-                            Address:- <span className={styles.s}> Ground Floor 3/777, Vastu khand Gomti Nagar Lucknow (Uttar Pradesh) Pin-226010</span>
+                            Address:- <span className={styles.s}> Ward No. 22, Harshan Seva Sadan, 32, Indrapuri Colony, Tikamgarh (M.P.) – 472001</span>
 
                         </div>
                         <div>
-                            Email:- <span className={styles.link}>gomtiinfra2001@gmail.com</span>
+                            Email:- <span className={styles.link}>gajananindiapvtltd@gmail.com</span>
                         </div>
                         <div>
-                            Mobile:- <span className={styles.link}>+91-9648322001 </span>
+                            Mobile:- <span className={styles.link}>+91-9425141650 </span>
                         </div>
                         <div>
-                            Mobile:- <span className={styles.link}>+91-9648922001 </span>
+                            Mobile:- <span className={styles.link}>+91-9935142001 </span>
                         </div>
 
 

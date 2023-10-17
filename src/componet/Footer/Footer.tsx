@@ -15,9 +15,9 @@ const Footer = () => {
     return (
         <div className={styles.main}>
             <div className={styles.section1}>
-                <div className={styles.company_name}>Gajanan Mining India Private  Limited</div>
+                <div className={styles.company_name}>Gajanan Mining India Private Limited</div>
                 <div className={styles.text}>
-                    gomtiinfra2001@gmail.com
+                    gajananindiapvtltd@gmail.com
                 </div>
                 <div className={styles.divider}></div>
                 <div className={styles.text}> Copyright Dotcreativemarket  </div>
@@ -45,8 +45,8 @@ const Footer = () => {
                 </div>
                 <div>
                     <div className={styles.second_heading}>Contact</div>
-                    <div className={styles.text}>Email:- gomtiinfra2001@gmail.com</div>
-                    <div className={styles.text}>Mobile:- +91-9648322001, +91-9648922001</div>
+                    <div className={styles.text}>Email:- gajananindiapvtltd@gmail.com</div>
+                    <div className={styles.text}>Mobile:- +91-9425141650, +91-9935142001</div>
                 </div>
 
             </div>
