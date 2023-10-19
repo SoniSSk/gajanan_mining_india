@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/gajanan_mining_india/static/css/main.fd89822a.css",
+    "main.css": "/gajanan_mining_india/static/css/main.f36f8262.css",
     "main.js": "/gajanan_mining_india/static/js/main.384b4942.js",
     "static/js/787.a03b0136.chunk.js": "/gajanan_mining_india/static/js/787.a03b0136.chunk.js",
     "static/media/envior.png": "/gajanan_mining_india/static/media/envior.d7bc9092cfbafb1fd566.png",
@@ -8,12 +8,12 @@
     "static/media/kkk.jpeg": "/gajanan_mining_india/static/media/kkk.87e6751c7d5721d5f64c.jpeg",
     "static/media/envior.jpeg": "/gajanan_mining_india/static/media/envior.9bac05d7fa761fc1a752.jpeg",
     "index.html": "/gajanan_mining_india/index.html",
-    "main.fd89822a.css.map": "/gajanan_mining_india/static/css/main.fd89822a.css.map",
+    "main.f36f8262.css.map": "/gajanan_mining_india/static/css/main.f36f8262.css.map",
     "main.384b4942.js.map": "/gajanan_mining_india/static/js/main.384b4942.js.map",
     "787.a03b0136.chunk.js.map": "/gajanan_mining_india/static/js/787.a03b0136.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fd89822a.css",
+    "static/css/main.f36f8262.css",
     "static/js/main.384b4942.js"
   ]
 }
